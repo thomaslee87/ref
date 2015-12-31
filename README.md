@@ -1,3 +1,7 @@
+### 工具
+
++ 基于python的SQL on text工具，用命令行在文本文件或者标准流上运行SQL。 https://github.com/harelba/q
+
 
 ### 前端资源: 
 
